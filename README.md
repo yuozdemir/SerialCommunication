@@ -1,1 +1,1 @@
-# Serial Communication Project
+# Serial Communication Application
